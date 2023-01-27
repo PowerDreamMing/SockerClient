@@ -13,7 +13,7 @@
 
 ***`用了 Socket io`***
 
-
+注意: 使用Socket io project時,要同時運行 Client 及 Server 這兩個 Android Studio，ｒｕｎ左 Server先，之後再ｒｕｎ Client。
 
 
 A | B | C 
